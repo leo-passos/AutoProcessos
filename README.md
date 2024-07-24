@@ -9,10 +9,13 @@ Todo dia, pela manhã, a equipe de análise de dados calcula os chamados OnePage
 Um One Page é um resumo muito simples e direto ao ponto, usado pela equipe de gerência de loja para saber os principais indicadores de cada loja e permitir em 1 página (daí o nome OnePage) tanto a comparação entre diferentes lojas, quanto quais indicadores aquela loja conseguiu cumprir naquele dia ou não.
 
 Exemplo de OnePage:
-Link 1
+
+![Prancheta 1 cópia](https://github.com/user-attachments/assets/a0e00655-00d8-450d-88d5-70d9e5b23a2b)
 
 O e-mail a ser enviado para o Gerente da Loja A deve ser como exemplo
-link 2
+
+![Prancheta 1](https://github.com/user-attachments/assets/af34e5ec-0fcc-4779-a395-5bf442d8173b)
+
 
 ### Arquivos e Informações Importantes
 
